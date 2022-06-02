@@ -1,0 +1,9 @@
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color:rgb(255, 255, 255) ;
+    outline: rgb(194, 0, 0) ;;
+    border-radius: 3px;
+    text-emphasis:center;
+}
